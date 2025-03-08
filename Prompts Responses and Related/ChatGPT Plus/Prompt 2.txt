@@ -1,0 +1,1 @@
+You've used Markdown in the article. You've also added blockquote Markdown to the entire thing. Don't use Markdown in the content I'm meant to copy. You can use HTML in the article portion, but not in the quiz. I need the material I copy to be free of any Markdown.

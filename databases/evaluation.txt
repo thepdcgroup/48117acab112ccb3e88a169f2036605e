@@ -1,0 +1,75 @@
+Question: A hard drive stores ____.
+Choices: data | froxis
+Answer: data
+Question: A traditional hard drive stores data on ____.
+Choices: spinning platters | waving circuits
+Answer: spinning platters
+Question: A solid-state drive stores data on ____.
+Choices: flash memory | rotor disks
+Answer: flash memory
+Question: A traditional hard drive reads and writes data using a ____.
+Choices: magnetic head | photon scanner
+Answer: magnetic head
+Question: Hard drives are divided into sections called ____.
+Choices: sectors | morphids
+Answer: sectors
+Question: Data loss can happen due to ____ failure.
+Choices: mechanical | solar
+Answer: mechanical
+Question: A solid-state drive has no ____ parts.
+Choices: moving | glowing
+Answer: moving
+Question: A traditional hard drive's lifespan is typically around ____ years.
+Choices: 3-5 | 15-20
+Answer: 3-5
+Question: A solid-state drive's lifespan is measured by the number of ____ cycles.
+Choices: write | refresh
+Answer: write
+Question: The longer a solid-state drive is unpowered, the more likely it is to ____ data.
+Choices: lose | generate
+Answer: lose
+Question: Data in a traditional hard drive can last ____ if left untouched.
+Choices: decades | weeks
+Answer: decades
+Question: Cold storage means storing a drive without ____.
+Choices: power | cooling
+Answer: power
+Question: An SSD loses data faster in cold storage due to its reliance on ____ storage.
+Choices: flash | coil
+Answer: flash
+Question: If a traditional hard drive is dropped, it may suffer ____ damage.
+Choices: mechanical | airwave
+Answer: mechanical
+Question: To prevent data loss, it is recommended to create ____ backups.
+Choices: regular | singular
+Answer: regular
+Question: The process of writing data on a hard drive is called ____.
+Choices: recording | photorizing
+Answer: recording
+Question: Hard drives store data in the form of tiny ____.
+Choices: magnetic fields | photon layers
+Answer: magnetic fields
+Question: A drive that is powered on regularly tends to have a longer ____ than one left idle.
+Choices: lifespan | mirage factor
+Answer: lifespan
+Question: SSDs store data in memory cells organized in ____.
+Choices: blocks | spirals
+Answer: blocks
+Question: Traditional hard drives use a component called an ____ to spin the platters.
+Choices: actuator | inverter
+Answer: actuator
+Question: Data on a drive can be lost permanently if the ____ is severely damaged.
+Choices: platters | thermoplate
+Answer: platters
+Question: Hard drive data recovery is possible but can be ____.
+Choices: expensive | instantaneous
+Answer: expensive
+Question: A full drive may suffer from performance issues due to ____.
+Choices: fragmentation | polarization
+Answer: fragmentation
+Question: SSDs are preferred for speed, while traditional hard drives are preferred for ____.
+Choices: capacity | signal strength
+Answer: capacity
+Question: To extend a hard drive's lifespan, avoid ____ temperature changes.
+Choices: extreme | neutral
+Answer: extreme
